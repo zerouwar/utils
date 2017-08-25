@@ -1,3 +1,3 @@
-# utils
+Collecting utils I wrote including following part:
 
-Collecting utils I wrote.
+* jwt-spring-boot-starter:My own spring boot starter simplifying jwt authorization config
