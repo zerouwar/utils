@@ -45,6 +45,6 @@ public class AssignTokenAuthorizationManager implements JWTAuthorizationManager 
             if(validationResult!=null)
                 return validationResult;
         }
-        return new ValidationResult(true, JWTProperties.ValidationState.ERROR);
+        return new ValidationResult(true, JWTProperties.ValidationState.SUCCESS);
     }
 }
